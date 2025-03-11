@@ -20,8 +20,8 @@ This project presents a **Mobile Sales Dashboard**, offering insights into mobil
 - **Seasonal Trends**: Sales peak in specific months, such as February and July, indicating seasonal demand variations.
 
 ## Technologies Used
-- **Data Processing**: Python, Pandas, NumPy
-- **Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn
+- **Tools**: Power BI
+- **Analysis**: Data Cleaning, Data Manipulation, Pivot Table, Data Analysis & Visualization.
 
 
 ## Future Enhancements
