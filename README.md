@@ -1,4 +1,4 @@
-# mobile-sales-analysis
+# Mobile-sales-analysis
 
 ## Overview
 This project presents a **Mobile Sales Dashboard**, offering insights into mobile brand sales performance, customer distribution, and transaction trends. The dashboard is structured to facilitate data-driven decision-making through key visualizations.
